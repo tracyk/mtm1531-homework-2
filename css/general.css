@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+html {
+	background-color:#CCCCCC;
+	padding: 30px;
+}
+
+body {
+	border: 10px solid #000;
+}
+
+h2 {
+	font-size:25px;
+	text-align:center;
+	text-decoration: underline;
+}
+
